@@ -69,3 +69,9 @@ python -m uvicorn main:app --reload
 - SQLAlchemy
 - SQLite/PostgreSQL
 - Docker
+
+## Screenshots
+
+### API Working (Swagger UI)
+
+![API Screenshot] ![alt text](fast-api.png),![alt text](api-customers.png),![alt text](injest-Success.png)
